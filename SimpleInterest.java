@@ -26,7 +26,7 @@ public class SimpleInterest {
 
         System.out.println("Simple Interest: " + simpleInterest);
 
-        System.out.println("Snyggt jobbat: ");
+        System.out.println("Mannen ");
 
 
 
