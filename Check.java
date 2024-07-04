@@ -12,7 +12,7 @@
 
             else
 
-                System.out.println(num + "    is odd.      ");
+                System.out.println(num + "    is odd.  snyggt    ");
 
         }
     }
