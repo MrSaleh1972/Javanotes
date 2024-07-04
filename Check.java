@@ -4,7 +4,7 @@
 
         public static void main(String[] args) {
 
-            int num = 2200000;
+            int num = 3300000;
 
             if (num % 2 == 0)
 
